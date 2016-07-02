@@ -1,0 +1,31 @@
+.two{
+    float: right;
+}
+.four{
+    display: inline;
+    margin: 20px;
+    padding: 25px;
+}
+.five{
+    display: block;
+    float: left;
+}
+.six{
+    display: block;
+    float: right;
+    
+}
+.seven{
+    display: inherit;
+    text-align: center;
+    padding: 25px;
+    
+}
+body{
+    background-color: bisque;
+    padding: 9px;
+}
+.me{
+    font-family: monospace;
+    font-size: 40px;
+}
